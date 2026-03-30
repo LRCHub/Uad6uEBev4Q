@@ -1,0 +1,85 @@
+# KETTAMA – It Gets Better (Forever Mix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.04] Can't go back, can't go back
+[00:06.99] Can't go back, can't go back
+[00:13.84] I can't go back, I can't go back, I can't go back
+[00:18.71] I must go on, I must go on
+[00:31.71] 
+[00:28.32] All the do's and don't
+[00:29.93] All the aches and moans
+[00:31.78] All the shivers and the shakes
+[00:33.37] You make, were alone
+[00:43.37] 
+[00:35.35] Like taking blood from a stone
+[00:37.09] Like taking blood from your nose
+[00:38.63] Like taking drinks out your clothes
+[00:40.27] They're hearing things that you know
+[00:58.27] 
+[00:41.97] To hearing things that you don't
+[00:43.45] They're hearing dreams that you've grown
+[00:45.03] Could try and change up your tone
+[00:46.96] Could try and find your way home
+[01:02.96] 
+[00:48.74] To try and find a smoke
+[00:50.31] To try and find the joke
+[00:51.97] Inside of what you say
+[00:53.97] Yeah, this no best
+[01:02.97] 
+[00:59.02] I, I, I
+[01:02.28] I, I, I
+[01:05.66] I, I,I
+[01:08.66] 
+[01:09.02] I, I, I, I need a drink
+[01:12.63] I, I, I, want a friend in need
+[01:16.01] I, I, I, I wanna be the arms around our memory
+[01:23.28] I, I, I, I need a drink
+[01:26.40] I, I, I, I want a friend in need
+[01:29.90] I, I, I, I wanna be the arms around our memory
+[01:52.90] 
+[01:36.89] I wanna be the arms around, around
+[01:40.12] I wanna be the arms around, around
+[01:43.64] I, I, I, the arms around, I
+[01:47.28] The arms around our memory
+[02:00.28] 
+[01:50.56] I, I, I, I need a drink
+[01:53.65] I, I, I, want a friend in need
+[01:56.90] I, I, I, I wanna be the arms around our memory
+[02:03.99] I, I, I, I need a drink
+[02:07.72] I, I, I want a friend in need
+[02:10.78] I, I, I, I wanna be the arms around our memory
+[02:33.78] 
+[02:17.35] I wanna be the arms around, around
+[02:21.23] I wanna be the arms around, around
+[02:24.61] I wanna be the arms around, around
+[02:27.92] I wanna be the arms around, around
+[02:44.92] 
+[02:31.49] I, I, I, the arms around, around
+[02:34.78] I, I, I, the arms a, want a friend in need
+[02:38.35] I, I, I the arms around
+[02:41.44] I, the arms around our memory
+[02:55.94] 
+[02:58.61] I wanna be, I wanna be around
+[03:02.46] I wanna be the arms around, around
+[03:06.00] I wanna be, I wanna be around
+[03:09.38] I wanna be the arms around, around
+[03:26.38] 
+[03:12.66] I, I, I the arms around, around
+[03:15.79] I, I, I, the arms a, want a friend in need
+[03:19.15] I, I, I the arms around
+[03:22.48] I, arms around our memory
+[03:34.98] 
+[03:26.42] I, I, I, I need a drink
+[03:29.86] I, I, I want a friend in need
+[03:32.96] I, I, I, I wanna be the arms around our memory
+[03:39.71] I, I, I, I need a drink
+[03:43.16] I, I, I, want a friend in need
+[03:46.66] I, I, I, I wanna be the arms around our memory
+[04:09.66] 
+[03:52.64] I wanna be the arms around, around
+[03:56.58] I wanna be the arms around, around
+[03:59.94] I wanna be the arms around, around
+[04:03.70] The arms around our memory
+```
